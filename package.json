@@ -24,7 +24,7 @@
     "dependencies": {
         "@jtc/common": "github:jumbo-tech-campus/nodejs-common",
         "@types/mongoose": "^5.5.17",
-        "mongoose": "^5.7.1"
+        "mongoose": "^6.0.0"
     },
     "devDependencies": {
         "@jtc/base": "github:jumbo-tech-campus/nodejs-base",
